@@ -181,6 +181,18 @@ img  {
 }
 
 
+/* Videos*/
+video  {
+    padding-bottom: 10%;
+    width: 60%;
+    height: 50%;
+    margin-left: 20%;
+    padding-right: 20%;
+    margin-right: 20%;
+    float: left;
+    align-self: center;
+    
+}
 /* Html Page*/
 
 
